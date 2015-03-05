@@ -35,11 +35,12 @@ Pondremos letreros en todos lados, pero si te pierdes, ll&aacute;manos: +521 (66
 
 - laptop (importante!)
 - cargador de la laptop
+- splitter (si tienes alguno)
 - una sonrisa, curiosidad, y energ&iacute;a!
 
 ## Antes del taller
 
-8 horas es muy poco tiempo para aprender programaci&oacute;, por eso te pediremos que hagas algunas cosas antes de. Si tienes tiempo y quieres venir mejor preparada, por favor lee lo siguiente:
+8 horas es muy poco tiempo para aprender programaci&oacute;n, por eso te pediremos que hagas algunas cosas antes de. Si tienes tiempo y quieres venir mejor preparada, por favor lee lo siguiente:
 
 - [El primer capitulo del tutorial que usaremos durante el taller](http://tutorial.djangogirls.org)
 - [Los capitulos 1 a 5 de este libro gratis sobre HTML y CSS por Damian Wielgosik](http://ferrante.pl/books/html/chapter1.html)
@@ -49,4 +50,5 @@ Pondremos letreros en todos lados, pero si te pierdes, ll&aacute;manos: +521 (66
 S&oacute;lo tenemos 45 lugares en el taller y recibimos mas de 150 aplicaciones. Si, por algun motivo, no puedes asistir, te pedimos por favor (te lo rogamos!) nos lo hagas saber. Asi le podemos dar a oportunidad a alguien mas y el lugar no se ira a la basura. Puedes mandarnos un mensaje de texto o un whatsapp a +521 (664) 218 3372 (Andrea) &oacute; +521 (664) 310 0360 (Laura).
 
 Nos vemos pronto!
+
 Andrea
